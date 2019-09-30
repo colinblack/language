@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math/rand"
 	"time"
 )
@@ -53,5 +52,38 @@ func main() {
 	//randNum()
 	//strOper1()
 	//	fmt.Println("s=", substr("hello world", 0, 5))
-	fmt.Println(reverse1("hello world"))
+	//fmt.Println(reverse1("hello world"))
+	//fmt.Printf("%v", isPrime(4))
+	//	fmt.Printf("%v", factorial(3))
+	//	prefixAndSuffix()
+	//	replace()
+	//repeat()
+	//toLower()
+	//	toUper()
+	//	TrimSpace()
+	//Trim()
+	//	TrimLeft()
+	//TrimRight()
+	//Filed()
+	//Split()
+	//	Join()
+	//	Atoi()
+	//fmt.Println("current time=", formatTime())
+	//execTime()
+	//	switchS()
+	//	guessNum()
+	//	forRange()
+	//	funcDemo()
+	//fmt.Println("sum=", addI(1))
+	//fmt.Println("result=", concat("hello"))
+	//	deferDemo()
+	//	deferDemo1()
+	//	anonFunc()
+	//perfectNum(1000)
+	//fmt.Printf("%v", palindrome())
+	//	count()
+	//	fmt.Printf("%s", bigNumAdd("123", "321"))
+	//	appendF()
+	//fiboNum()
+	testSlice()
 }
