@@ -13,7 +13,6 @@ void output_static_data(const T& obj)
 {
 }
 
-
 template <class Container>
 void test_moveable(Container c)
 {
