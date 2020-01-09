@@ -7,7 +7,7 @@
 
 void* output(void* arg)
 {
-    int* p = (int*)arg;
+    int* p = (int*)arg;`
     std::cout << *p << std::endl;
     sleep(2);
      throw std::runtime_error("error");
