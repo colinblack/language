@@ -4,6 +4,7 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "exception": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "thread": "cpp"
     }
 }
